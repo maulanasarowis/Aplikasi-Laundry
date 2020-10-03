@@ -1,0 +1,20 @@
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\bin\Debug\AplikasiLaundry.exe
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\bin\Debug\AplikasiLaundry.pdb
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\bin\Debug\AplikasiLaundry.xml
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\obj\Debug\AplikasiLaundry.Paket.resources
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\obj\Debug\AplikasiLaundry.Resources.resources
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\obj\Debug\AplikasiLaundry.vbproj.GenerateResource.Cache
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\obj\Debug\AplikasiLaundry.exe
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\obj\Debug\AplikasiLaundry.xml
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\obj\Debug\AplikasiLaundry.pdb
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\obj\Debug\AplikasiLaundry.Order_Pesanan.resources
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\obj\Debug\AplikasiLaundry.Transaksi.resources
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\obj\Debug\AplikasiLaundry.Login.resources
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\obj\Debug\AplikasiLaundry.Menu_Utama.resources
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\obj\Debug\AplikasiLaundry.LaporanTransaksi.resources
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\obj\Debug\AplikasiLaundry.FakturOrder.resources
+D:\PROJECT VB 2008\AplikasiLaundry\AplikasiLaundry\obj\Debug\AplikasiLaundry.FakturTransaksi.resources
+D:\PROJECT VB 2008\CONNECTION DATABASE\AplikasiLaundry\AplikasiLaundry\obj\Debug\AplikasiLaundry.exe
+D:\PROJECT VB 2008\CONNECTION DATABASE\AplikasiLaundry\AplikasiLaundry\obj\Debug\AplikasiLaundry.xml
+D:\PROJECT VB 2008\CONNECTION DATABASE\AplikasiLaundry\AplikasiLaundry\obj\Debug\AplikasiLaundry.pdb
